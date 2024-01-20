@@ -15,7 +15,7 @@ The key features of the application.
 
 ## Installation or How to run the app
 If you want to run our code then please read the instructions below :
-- Clone our repository [https://github.com/harishreyya/React_assignment_fastor.git](https://github.com/harishreyya/React_assignment_fastor.git)
+- Clone the repository [https://github.com/harishreyya/React_assignment_fastor.git](https://github.com/harishreyya/React_assignment_fastor.git)
 - Open the code in your VS code
 - Now run npm install or npm i which will install all the required packages of node
 - Now you see the app running, you can explore by logging in with otp.
